@@ -17,3 +17,5 @@ const showText = (trafficLightColor: string): void => {
   }
   console.log(textToShow);
 };
+
+showText("hijau");
